@@ -10,8 +10,6 @@ Scikit-learn==0.21.2
 
 Pytorch==1.1.0
 
-# Datasets
-The main directory contains the directories of 
 
 # Reproduce the experimental results:
 1. create an empty directory: checkpoint/
